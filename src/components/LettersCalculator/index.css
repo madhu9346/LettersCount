@@ -1,0 +1,52 @@
+.con {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.con1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sub1 {
+  margin: 60px;
+}
+.head {
+  color: white;
+  font-family: Bree Serif;
+  font-weight: bold;
+  font-size: 65px;
+  margin: 10px;
+}
+.para {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+.inputOf {
+  color: #1d976c;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Bree Serif;
+  width: 400px;
+  padding: 8px;
+  border-radius: 10px;
+}
+.btn {
+  color: #1d976c;
+  font-weight: bold;
+  font-family: Bree Serif;
+  padding: 30px;
+  margin-top: 90px;
+  background-color: white;
+  border-radius: 10px;
+  font-size: 40px;
+}
+.image {
+  height: 550px;
+  width: 700px;
+  margin: 20px;
+}
